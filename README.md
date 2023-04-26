@@ -9,9 +9,10 @@ MNIST contains a collection of 70,000, 28 x 28 images of handwritten digits from
 The dataset is already divided into training and testing sets.
 
 
-#KERAS AND TENSORFLOW
+# KERAS AND TENSORFLOW
 
-Keras is a deep learning API written in Python, running on top of the machine learning platform TensorFlow. It was developed with a focus on enabling fast experimentation and providing a delightful developer experience.
+# Keras
+Its a deep learning API written in Python, running on top of the machine learning platform TensorFlow. It was developed with a focus on enabling fast experimentation and providing a delightful developer experience.
 
 The purpose of Keras is to give an unfair advantage to any developer looking to ship ML-powered apps.
 
@@ -21,7 +22,8 @@ Simple -- but not simplistic. Keras reduces developer cognitive load to free you
 Flexible -- Keras adopts the principle of progressive disclosure of complexity: simple workflows should be quick and easy, while arbitrarily advanced workflows should be possible via a clear path that builds upon what you've already learned.
 Powerful -- Keras provides industry-strength performance and scalability: it is used by organizations and companies including NASA, YouTube, and Waymo. That's right -- your YouTube recommendations are powered by Keras, and so is the world's most advanced driverless vehicle.
 
-TensorFlow 2 is an end-to-end, open-source machine learning platform. You can think of it as an infrastructure layer for differentiable programming. It combines four key abilities:
+# TensorFlow 
+Its an end-to-end, open-source machine learning platform. You can think of it as an infrastructure layer for differentiable programming. It combines four key abilities:
 
 Efficiently executing low-level tensor operations on CPU, GPU, or TPU.
 Computing the gradient of arbitrary differentiable expressions.
