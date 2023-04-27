@@ -1,4 +1,4 @@
-# Third-Machine-Learning-Program
+# NUMBER IDENTIFICATION USING KERAS
 
 I have used MNIST dataset which is a large collection of handwritten digits. It is a very popular dataset in the field of image processing. It is often used for benchmarking machine learning algorithms.
 
